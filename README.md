@@ -64,12 +64,6 @@ Through this project, we gained valuable experience in practical machine learnin
 - **Team Collaboration:** This group project enhanced our communication and project planning skills, especially during data analysis and presentation preparation.
 - **Real-World Relevance:** Understanding the business impact of fraud and the role of machine learning in mitigating it made this project highly meaningful.
 
-## Contributors
-
-- Lina Ahmed Alamri – 443007671  
-- Lama Abdulmohsen Alquraishi – 443007691  
-- Norah Mislat Alshalawi – 443007689  
-- Raghad Abdullah Alanazi – 443007658
 
 ## Resources
 
